@@ -34,6 +34,6 @@ localhost:8080/downloads?uuid=파일이름; 식으로 파일 이름을 파라미
 
 ![bandicam 2021-11-26 12-13-34-354](https://user-images.githubusercontent.com/55654216/143523491-1cc01c77-8264-4507-912e-ff4681fc8689.jpg)
 
-지정된 공간에 파일이 잘 업로드 되어있고 파일 이름 앞에 고유 uuid가 적용되어있는 것을  
+지정된 공간에 파일이 잘 업로드 되어있고 파일 이름 앞에 고유 uuid가 적용되어있는 것을 확인하였음.
 
 ![bandicam 2021-11-26 12-14-50-204](https://user-images.githubusercontent.com/55654216/143523237-3759ded3-a337-46a5-897d-3808b0be06b0.jpg)
